@@ -27,4 +27,5 @@ require("lazy").setup({
 	require("plugins.misc"),
 	require("plugins.nvim-notify"),
 	require("plugins.noice"),
+	require("plugins.copilotchat"),
 })
